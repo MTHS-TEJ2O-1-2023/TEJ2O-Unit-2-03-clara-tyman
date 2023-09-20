@@ -8,7 +8,7 @@
 basic.clearScreen()
 basic.pause(1000)
 
-basic.showString('A Rectangle has dimensions 5cm & 3cm') 
+basic.showString('A Rectangle has dimensions 5cm & 3cm')
 
 basic.showString('The perimiter would be' + (5 * 3).toString() + 'cm')
 
